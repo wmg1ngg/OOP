@@ -1,0 +1,7 @@
+Zhang English 88 History 92 Physics 75
+Li English 85 Chemistry 90 Biology 78
+Wang History 91 Physics 83 Chemistry 76 Biology 88
+Chen English 70 History 65 Physics 80 Chemistry 72
+Liu Biology 95 Chemistry 88 English 79
+Zhou English 82 Physics 91 Biology 84
+Wu History 77 Chemistry 69 Biology 93

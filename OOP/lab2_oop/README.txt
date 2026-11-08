@@ -1,0 +1,1 @@
+因为用了getline，所以输入好了之后要先Ctrl+Z（Windows）或 Ctrl+D（Mac/Linux）然后再按enter

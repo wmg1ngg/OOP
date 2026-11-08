@@ -1,0 +1,3 @@
+/mnt/c/OOP/3240300160 陈婉妹 lab7_oop/build/CMakeFiles/lab7.dir
+/mnt/c/OOP/3240300160 陈婉妹 lab7_oop/build/CMakeFiles/edit_cache.dir
+/mnt/c/OOP/3240300160 陈婉妹 lab7_oop/build/CMakeFiles/rebuild_cache.dir
